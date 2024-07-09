@@ -1,0 +1,3 @@
+Recomendação: Baixar o Visual Studio Code.
+Depois de baixar o VS Code, instale a expansão para c++ no programa, clicando no ícone de extensões na barra lateral esquerda, procure por c++ na pesquisa e instale.
+Configure o compilador c++, eu baixei o MinGW para isso. Baixe o diretório do git hub, abra o arquivo com nome "projeto.cpp" e execute no terminal para abrir o menu do programa.
